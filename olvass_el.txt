@@ -1,4 +1,4 @@
 A main_kapcsolat.php fájlban módosítani kell a jelszót és felhasználót!
 1. módosítás
 2. módosítás - kandoikt/varadiniki
-
+3. módosítás takinfo03-ra módosítottam a nevet
